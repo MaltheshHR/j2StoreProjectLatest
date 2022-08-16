@@ -25,7 +25,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.j2storeProject.actioninterface.ActionInterface;
 import com.j2storeProject.base.BaseClass;
-
+/*
+ * 
+ */
 public class Action extends BaseClass implements ActionInterface {
 
 	@Override
